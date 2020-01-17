@@ -24,7 +24,7 @@ export default {
   data () {
     return {
       xh: '20170217077',
-      pwd: 'd6e562abff17228f',
+      pwd: '',
       getURL: ''
     }
   },
